@@ -14,7 +14,12 @@
 - **Jump Trading**
 - **Elevate Ventures**
 
-> **Grass** - A similar project based on bandwidth has brought early success to many users. Therefore, **Nodepay** is a promising opportunity not to be missed.
+# 🔄 NODEPAY 1.1 Update (No need to keep the extension running)
+
+### ✅ New Features:
+- **Firewall Update**: Improved firewall rules for better performance.
+- **Blocked Proxy Handling**: Blocked proxies will be automatically removed in the next run.
+- **Proxy Format Conversion Tool**: Updated tool for easier proxy format conversion.
 
 ## 🎮 How to Use NodePay Bot
 
