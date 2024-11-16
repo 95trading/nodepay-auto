@@ -14,6 +14,18 @@
 - **Jump Trading**
 - **Elevate Ventures**
 
+# 🔄 NODEPAY 1.3 Update (No Extension Required)
+
+## ✅ Features:
+- Updated method for bypassing firewalls.
+- Improved proxy connection.
+
+## 1️⃣ Instructions for Retrieving Token Without Code Entry:
+1. Navigate to the Nodepay dashboard: [https://app.nodepay.ai/dashboard](https://app.nodepay.ai/dashboard)
+2. Press `F12` to open DevTools and go to the **Application** tab.
+3. In **Local Storage**, select the entry `np_webapp_token`.
+4. Copy the token and paste it into `token.txt`.
+
 # 🔄 NODEPAY 1.1 Update (No need to keep the extension running)
 
 ### ✅ New Features:
