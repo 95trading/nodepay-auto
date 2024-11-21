@@ -14,11 +14,11 @@
 - **Jump Trading**
 - **Elevate Ventures**
 
-# 🔄 Update NODEPAY 1.4 (no extension needed):
+# 🔄 Update NODEPAY 1.4:
 - Update api.
 - Update local ip ping.
 
-# 🔄 NODEPAY 1.3 Update (No Extension Required)
+# 🔄 NODEPAY 1.3 Update
 
 ## ✅ Features:
 - Updated method for bypassing firewalls.
